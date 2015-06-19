@@ -1,1 +1,1 @@
-Hi all, Pull, edit and push. this is meant to be a test. --Spicy Admin
+Hi all, Pull, edit and push. This is meant to be a test. --Spicy Admin
