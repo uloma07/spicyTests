@@ -1,1 +1,3 @@
-Hi all, Pull, edit and push. This is meant to be a test. --Spicy Admin
+Hi all, Pull, edit and push. This is meant to be a test. 
+Deadline is this weekend!
+--Spicy Admin
